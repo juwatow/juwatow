@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeanne d'Arc Uwatowenimana</h1>
-<h3 align="center">An Engineering Leader & Business Agility Advocate</h3>
+<h3 align="center">An Engineering Leader</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juwatow&label=Profile%20views&color=0e75b6&style=flat" alt="juwatow" /> </p>
 
